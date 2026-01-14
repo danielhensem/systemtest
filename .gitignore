@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Cypress
+cypress/downloads/
+cypress/screenshots/
+cypress/videos/
+cypress/reports/
+
+# Allure results (optional - uncomment if you don't want to commit results)
+# allure-results/
+
+# Allure report (usually not committed, can be regenerated)
+# allure-report/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*

@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2600","Insert invalid account number: nonexistent account number","","2026-01-14","passed","2026-01-14","","User transfer money","",""
+"","7360","Insert invalid amount exceeding balance","","2026-01-14","failed","2026-01-14","","User transfer money","",""
+"","9928","Insert valid receiver account & valid amount","","2026-01-14","failed","2026-01-14","","User transfer money","",""
+"","7067","Insert invalid amount less than 3000","","2026-01-14","failed","2026-01-14","","User transfer money","",""
+"","2450","Insert invalid account number: no number","","2026-01-14","passed","2026-01-14","","User transfer money","",""
