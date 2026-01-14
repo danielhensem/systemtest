@@ -8,6 +8,9 @@ cypress/screenshots/
 cypress/videos/
 cypress/reports/
 
+# Large fixture files
+cypress/fixtures/100-mb-example-jpg.jpg
+
 # Allure results (optional - uncomment if you don't want to commit results)
 # allure-results/
 
